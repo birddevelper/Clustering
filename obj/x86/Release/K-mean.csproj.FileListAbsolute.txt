@@ -1,0 +1,9 @@
+I:\mostafa\K-mean\K-mean\bin\Release\K-mean.exe
+I:\mostafa\K-mean\K-mean\bin\Release\K-mean.pdb
+I:\mostafa\K-mean\K-mean\obj\x86\Release\ResolveAssemblyReference.cache
+I:\mostafa\K-mean\K-mean\obj\x86\Release\K_mean.Form1.resources
+I:\mostafa\K-mean\K-mean\obj\x86\Release\K_mean.Properties.Resources.resources
+I:\mostafa\K-mean\K-mean\obj\x86\Release\GenerateResource.read.1.tlog
+I:\mostafa\K-mean\K-mean\obj\x86\Release\GenerateResource.write.1.tlog
+I:\mostafa\K-mean\K-mean\obj\x86\Release\K-mean.exe
+I:\mostafa\K-mean\K-mean\obj\x86\Release\K-mean.pdb

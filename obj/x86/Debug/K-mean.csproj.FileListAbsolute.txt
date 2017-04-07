@@ -1,0 +1,18 @@
+C:\Users\bird\documents\visual studio 2010\Projects\K-mean\K-mean\bin\Debug\K-mean.exe
+C:\Users\bird\documents\visual studio 2010\Projects\K-mean\K-mean\bin\Debug\K-mean.pdb
+C:\Users\bird\documents\visual studio 2010\Projects\K-mean\K-mean\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bird\documents\visual studio 2010\Projects\K-mean\K-mean\obj\x86\Debug\K_mean.Form1.resources
+C:\Users\bird\documents\visual studio 2010\Projects\K-mean\K-mean\obj\x86\Debug\K_mean.Properties.Resources.resources
+C:\Users\bird\documents\visual studio 2010\Projects\K-mean\K-mean\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bird\documents\visual studio 2010\Projects\K-mean\K-mean\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bird\documents\visual studio 2010\Projects\K-mean\K-mean\obj\x86\Debug\K-mean.exe
+C:\Users\bird\documents\visual studio 2010\Projects\K-mean\K-mean\obj\x86\Debug\K-mean.pdb
+I:\mostafa\K-mean\K-mean\obj\x86\Debug\K-mean.exe
+I:\mostafa\K-mean\K-mean\obj\x86\Debug\K-mean.pdb
+I:\mostafa\K-mean\K-mean\bin\Debug\K-mean.exe
+I:\mostafa\K-mean\K-mean\bin\Debug\K-mean.pdb
+I:\mostafa\K-mean\K-mean\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\mostafa\K-mean\K-mean\obj\x86\Debug\K_mean.Form1.resources
+I:\mostafa\K-mean\K-mean\obj\x86\Debug\K_mean.Properties.Resources.resources
+I:\mostafa\K-mean\K-mean\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\mostafa\K-mean\K-mean\obj\x86\Debug\GenerateResource.write.1.tlog
