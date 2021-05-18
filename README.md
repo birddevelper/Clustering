@@ -1,4 +1,7 @@
 # Clustering
-Machine Learning K-mean clustering and a heurictic algorithm
+Machine Learning K-mean clustering
 
-Graphical implimentation of K-mean clusttering, and an clusttering algorithm wrote by myself
+Graphical K-mean clusttering algorithm that shows each the clustering process step by step
+
+![K-mean Clustering](https://m-shaeri.ir/blog/wp-content/uploads/2021/05/K-mean.jpg)
+
