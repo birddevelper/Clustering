@@ -2,7 +2,7 @@
 Machine Learning K-mean clustering
 
 Graphical K-mean clusttering algorithm that visualize the clustering process step by step.
-###features
+### features
 *You can make the visualization fast or slow.
 *you can open your own dataset.
 
