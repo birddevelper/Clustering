@@ -72,13 +72,14 @@ namespace K_mean
 
         }
         
-        //////////////////////////////////////////
-
+        // This method clears center points
         public void reset_means()
         {
             means = new ArrayList();
         }
-        //////////////////////////////////////////
+
+
+        // This method clears the board and all data points
         public void reset_data()
         {
             datapoints = new ArrayList();
