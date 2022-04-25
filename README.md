@@ -1,5 +1,5 @@
 # Clustering
-Machine Learning K-mean clustering
+Machine Learning K-mean clustering algorithm
 
 Graphical K-mean clusttering algorithm illustration that visualize the clustering process step by step.
 
