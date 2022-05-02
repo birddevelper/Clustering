@@ -1,7 +1,7 @@
 # Clustering
 Machine Learning K-mean clustering algorithm
 
-Graphical K-mean clusttering algorithm illustration that visualize the clustering process step by step.
+This app is a graphical K-mean clusttering algorithm. It visualize the clustering process step by step.
 
 ### features
 * You can make the visualization fast or slow.
