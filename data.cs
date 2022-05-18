@@ -9,12 +9,13 @@ namespace K_mean
     {
         public Point point;
         public int set=0;
-
+        
+        // constructor
         public data(Point _point)
         {
             point = _point;
         }
-
+        // constructor
         public data(Point _point,int _set)
         {
             point = _point;
