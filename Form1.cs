@@ -218,6 +218,7 @@ namespace K_mean
             clearboard();
             draw_points(datapoints);
             reset_means();
+             // start algorithm as a thread
             Thread th = new Thread(new ThreadStart(k_mean_alg));
             th.Start();
         }
