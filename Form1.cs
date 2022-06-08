@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -51,8 +51,7 @@ namespace K_mean
         /////////////////////////////////// random number generator////////////////////////////////
         public static int rInt(int incLB ,int exclUB)
         {
-           // int t = rand.Next(incLB, exclUB);
-            //return t;
+            /// generate 8 digit random number
             Random rndNum = new Random(int.Parse(Guid.NewGuid().ToString().Substring(0, 8), System.Globalization.NumberStyles.HexNumber));
 
             int rnd = rndNum.Next(incLB, exclUB);
