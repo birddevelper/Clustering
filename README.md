@@ -2,7 +2,7 @@
 
 Machine Learning K-mean clustering algorithm
 
-Graphical K-mean clusttering algorithm. It visualizes the clustering algorithm step by step.
+K-mean clusttering algorithm graphical demo. It visualizes the clustering algorithm step by step.
 
 ### features
 * animated algorithm progress
